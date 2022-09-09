@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BuomYian
-- 👀 I’m interested in web-developing and design
+- 👀 I’m interested in web-developing and designing
 - 🌱 I’m currently learning Computer Science at Bahir Dar University, Ethiopia and taking Software Engineering at ALX (Online)
-- 💞️ I’m looking to collaborate on any project that relate to web-developing design
+- 💞️ I’m looking to collaborate on any project that relate to web-developing and designing
 - 📫 How to reach me buom.nyajal@gmail.com
 
 <!---
