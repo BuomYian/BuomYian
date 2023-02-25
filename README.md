@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BuomYian
+- 👋 Hi, I’m Buomuoth Yian
 - 👀 I’m interested in web-developing and designing
 - 🌱 I’m currently learning Computer Science at Bahir Dar University, Ethiopia and taking Software Engineering at ALX (Online)
 - 💞️ I’m looking to collaborate on any project that relate to web-developing and designing
