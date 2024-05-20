@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, con
 ## About Me
 
 - 🎓 Graduated with a Bachelor's degree in Computer Science from Bahir Dar University.
-<!-- - 💼 Currently working as a [Your Current Job Title] at [Your Current Company]. -->
+- 💼 Currently working as an intern (Frontend Developer) at payWifiGo.
 - 💻 Enthusiastic about full-stack software engineering, web development, and network management.
 - 🚀 Completed a one-year online bootcamp in Full-Stack Software Engineering with ALX-SE Programme, cohort 9.
 - 🌐 Constantly exploring the world of web technologies, with expertise in JavaScript, Python, and C++.
@@ -34,4 +34,4 @@ Let's connect and build something amazing together!
 
 <!-- Optional: Add badges or statistics about your GitHub activity and contributions. -->
 
-<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true) -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
