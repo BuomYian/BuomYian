@@ -34,4 +34,4 @@ Let's connect and build something amazing together!
 
 <!-- Optional: Add badges or statistics about your GitHub activity and contributions. -->
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuomYian&show_icons=true)
