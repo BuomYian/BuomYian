@@ -27,7 +27,7 @@ Feel free to explore my repositories for more!
 I'm always open to interesting conversations and collaborations. You can reach me via:
 
 - 📧 Email: buom.nyajal@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/buomkuoth-yian-3ab137200/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bi%2BLzOH2TR%2FGVNiQCAZvOnA%3D%3D
+- 💼 LinkedIn: https://www.linkedin.com/in/buomkuoth-makuach
 - 🐦 Twitter (X): https://twitter.com/BuomYian
 
 Let's connect and build something amazing together!
