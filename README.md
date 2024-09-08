@@ -2,36 +2,24 @@
 
 Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and code-related adventures. I'm a passionate Computer Science graduate with a focus on software engineering and networking. My aim is to continually learn, innovate, and collaborate on exciting projects that make a difference.
 
-## About Me
+# 💫 About Me:
+🎓 Graduated with a Bachelor's degree in Computer Science from Bahir Dar University.<br>💼 Currently working as an intern (Frontend Developer) at payWifiGo.<br>💻 Enthusiastic about full-stack software engineering, web development, and network management.<br>🚀 Completed a one-year online bootcamp in Full-Stack Software Engineering with ALX-SE Programme, cohort 9.<br>🌐 Constantly exploring the world of web technologies, with expertise in JavaScript, Python, and C++.<br>⚙️ Proficient in building web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack.<br>🌱 Eager to contribute to open-source projects and collaborate with like-minded developers.
 
-- 🎓 Graduated with a Bachelor's degree in Computer Science from Bahir Dar University.
-- 💼 Currently working as an intern (Frontend Developer) at payWifiGo.
-- 💻 Enthusiastic about full-stack software engineering, web development, and network management.
-- 🚀 Completed a one-year online bootcamp in Full-Stack Software Engineering with ALX-SE Programme, cohort 9.
-- 🌐 Constantly exploring the world of web technologies, with expertise in JavaScript, Python, and C++.
-- ⚙️ Proficient in building web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
-- 🌱 Eager to contribute to open-source projects and collaborate with like-minded developers.
 
-## Projects
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/buomyian/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/buomkuoth-makuach) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BuomYian) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Buomkuoth-Yian) 
 
-Here are some of the projects you'll find in my repository:
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BuomYian&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BuomYian&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BuomYian&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- Fashion-Stylist (https://github.com/BuomYian/Fashion-Stylist): E-commerce web-app that deal with fashion items only. Built using MERN-Stack
-- Tasks-Manager (https://github.com/BuomYian/Tasks-Manager): Task Manager is a web-based application designed for individuals to manage their tasks and to-do lists efficiently. It allows users to create, edit, delete, and organize tasks, ensuring productivity and organization.
-- AirBnB Clone (https://github.com/BuomYian/AirBnB_clone): Clone of the AirBnB web application
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BuomYian&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Feel free to explore my repositories for more!
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Contact Me
-
-I'm always open to interesting conversations and collaborations. You can reach me via:
-
-- 📧 Email: buom.nyajal@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/buomkuoth-makuach
-- 🐦 Twitter (X): https://twitter.com/BuomYian
-
-Let's connect and build something amazing together!
-
-<!-- Optional: Add badges or statistics about your GitHub activity and contributions. -->
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuomYian&show_icons=true)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
