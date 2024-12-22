@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, con
 
 # 💫 About Me:
 
-🎓 Graduated with a Bachelor's degree in Computer Science from Bahir Dar University.<br>💼 Currently working as an intern (Frontend Developer) at Imali.click.<br>💻 Enthusiastic about full-stack software engineering, web development, and network management.<br>🚀 Completed a one-year online bootcamp in Full-Stack Software Engineering with ALX-SE Programme, cohort 9.<br>🌐 Constantly exploring the world of web technologies, with expertise in JavaScript, Python, and C++.<br>⚙️ Proficient in building web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack.<br>🌱 Eager to contribute to open-source projects and collaborate with like-minded developers.
+🎓 Graduated with a Bachelor's degree in Computer Science from Bahir Dar University.<br>💼 Currently working as a Frontend Developer at Imali.click.<br>💻 Enthusiastic about full-stack software engineering, web development, and network management.<br>🚀 Completed a one-year online bootcamp in Full-Stack Software Engineering with ALX-SE Programme, cohort 9.<br>🌐 Constantly exploring the world of web technologies, with expertise in JavaScript, Python, and C++.<br>⚙️ Proficient in building web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack.<br>🌱 Eager to contribute to open-source projects and collaborate with like-minded developers.
 
 ## 🌐 Socials:
 
